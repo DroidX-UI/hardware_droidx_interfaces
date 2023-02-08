@@ -3,6 +3,6 @@
 source $ANDROID_BUILD_TOP/system/tools/hidl/update-makefiles-helper.sh
 
 do_makefiles_update \
-  "vendor.octavi:hardware/octavi/interfaces" \
+  "vendor.droidx:hardware/droidx/interfaces" \
   "android.hardware:hardware/interfaces" \
   "android.hidl:system/libhidl/transport"

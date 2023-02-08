@@ -1,4 +1,4 @@
 hidl_package_root {
     name: "vendor.lineage",
-    path: "hardware/octavi/interfaces",
+    path: "hardware/droidx/interfaces",
 }
